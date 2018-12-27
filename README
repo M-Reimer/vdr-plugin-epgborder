@@ -1,0 +1,11 @@
+Plugin for the Video Disk Recorder (VDR) which blocks EPG storage starting from a set border channel number
+
+Written by:                  Manuel Reimer <manuel.reimer@gmx.de>
+
+Project's homepage:          https://github.com/M-Reimer/vdr-plugin-epgborder
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+See the file COPYING for more information.
