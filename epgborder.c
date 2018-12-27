@@ -64,8 +64,7 @@ cMenuSetupEpgborder::cMenuSetupEpgborder(void) {
   Add(new cMenuEditIntItem(tr("Block EPG starting from channel number"), &newBorderChannelNumber));
 }
 
-void cMenuSetupEpgborder::Store(void)
-{
+void cMenuSetupEpgborder::Store(void) {
   SetupStore("BorderChannelNumber", BorderChannelNumber = newBorderChannelNumber);
 }
 
