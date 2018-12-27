@@ -19,7 +19,7 @@
 #include <vdr/plugin.h>
 #include <vdr/epg.h>
 
-static const char *VERSION        = "0.0.1";
+static const char *VERSION        = "1.0.0";
 static const char *DESCRIPTION    = "Blocks EPG storage starting from a set border channel number";
 
 // Global variable to store the "limit" channel number
